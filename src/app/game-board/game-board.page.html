@@ -1,0 +1,176 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>game-board</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <!--  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">game-board</ion-title>
+    </ion-toolbar>
+  </ion-header> -->
+
+  <div class="ion-text-center">
+    <ion-spinner color="primary" *ngIf="isLoading"></ion-spinner>
+  </div>
+
+  <div *ngIf="!isLoading">
+    <ion-grid class="subjects">
+      <ion-row
+        style="align-items: stretch"
+        *ngFor="let col of rowArray; index as i"
+      >
+  <!--       <ion-col
+          style="height: 80px; margin: 2px; border: 1px; border-color: black; vertical-align: middle;"
+          class="ion-text-center"
+          (click)="clickTopic(i*columns + j)"
+          [ngClass]="getSubjectClass(i*columns + j)"
+          *ngFor="let col of colArray; index as j" -->
+
+        <ion-col *ngFor="let col of colArray; index as j">
+       <ion-button class="subject-button"expand="block" color="secondary"
+                   [color]="activeSubjectIndex === (i*columns + j) ? 'primary' : 'secondary'"
+                   [disabled]="isDisabled(i*columns + j)"
+                   (click)="clickTopic(i*columns + j)">
+         <span>{{ topics[i*columns + j] }}</span>
+       </ion-button>
+        
+        <!--  <ion-button [disabled]="!allGreaterZero(gameInst.subjectSet[activeSubjectIndex].questions)">  {{ topics[i*columns + j] }} -->
+        <!-- </ion-button> -->
+        </ion-col>
+        <!-- <ion-col size="6" size-sm="4" offset-sm="2" class="ion-text-center">Topic 1</ion-col>
+      <ion-col size="6" size-sm="4" offset-sm="2" class="ion-text-center">Topic 2</ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col size="6" size-sm="4" offset-sm="2" class="ion-text-center">Topic 3</ion-col>
+      <ion-col size="6" size-sm="4" offset-sm="2" class="ion-text-center">Topic 4</ion-col> -->
+      </ion-row>
+    </ion-grid>
+
+    <ion-grid>
+      <ion-row>
+        <ion-col size="2" class="questions-col">
+          <ion-grid>
+            <ion-row
+              *ngFor="let col of questionArray; index as i"
+              class="ion-justify-content-center"
+            >
+              <!--           <ion-col
+              style="height: 30; margin: 2px; border: 1px; border-color: black"
+              [ngClass]="getQuestionClass(i)"
+              (click)="clickQuestion(i)"
+            > -->
+              <ion-col>
+                <ion-button
+                  [disabled]="this.activeSubjectIndex < 0 || this.gameInst.subjectSet[this.activeSubjectIndex].questions[i].orderAnswered > 0"
+                  [color]="getQuestionClass(i)"
+                  (click)="clickQuestion(i)"
+                  >{{ col }}
+                </ion-button>
+                <!-- <div style="width: 40px">{{ col }}</div> -->
+              </ion-col>
+            </ion-row>
+          </ion-grid>
+        </ion-col>
+        <ion-col size="10" class="main-content-col">
+          <ion-grid
+            *ngIf="gameInst !== null && gameInst.subjectSet !== null && gameInst.subjectSet!.length > 0 && activeSubjectIndex >= 0 && activeQuestionIndex >= 0"
+          >
+            <ion-row>
+              <ion-col 
+                style="
+                  height: auto;
+                  background: #dce7ec;
+                  margin: 2px;
+                  border: 1px;
+                "
+                *ngIf="gameInst !== null && gameInst.subjectSet!.length > 0 && activeSubjectIndex >= 0 && activeQuestionIndex >= 0"
+                >{{
+                 gameInst.subjectSet[activeSubjectIndex].questions[activeQuestionIndex].questionText
+                }}</ion-col
+              >
+              <ion-col
+                *ngIf="gameInst !== null && activeSubjectIndex >= 0 && activeQuestionIndex >= 0 
+            && gameInst.subjectSet[activeSubjectIndex].questions[activeQuestionIndex].hasImage"
+              >
+                <ion-img
+                  [src]="baseImageUrl+gameInst.subjectSet[activeSubjectIndex].questions[activeQuestionIndex].imagePath"
+                ></ion-img>
+              </ion-col>
+            </ion-row>
+            <ion-row>
+              <ion-col>
+                <ion-input
+                  #input
+                  label="Your Answer:"
+                  label-placement="floating"
+                  [clearInput]="true"
+                  fill="outline"
+                  [(ngModel)]="userAnswer"
+                ></ion-input>
+                <ion-button
+                  color="primary"
+                  (click)="onSubmit()"
+                  [disabled]="this.gameInst.subjectSet[this.activeSubjectIndex].questions[this.activeQuestionIndex].orderAnswered > 0"
+                  *ngIf="showSubmitButton()"
+                  >Submit</ion-button
+                >
+                <p
+                  *ngIf="this.gameInst.subjectSet[this.activeSubjectIndex].questions[this.activeQuestionIndex].orderAnswered > 0 && 
+              !this.gameInst.subjectSet[this.activeSubjectIndex].questions[this.activeQuestionIndex].isCorrect"
+                  style="color: red"
+                >
+                  <!--              <ion-icon name="sad" color="danger"></ion-icon>
+                {{
+                this.gameInst.subjectSet[this.activeSubjectIndex].questions[this.activeQuestionIndex].displayAnswer
+                }}
+              </p> -->
+
+                  <ion-badge slot="start" color="error">x</ion-badge>
+                  <ion-label style="padding-left: 10px"
+                    >{{
+                    this.gameInst.subjectSet[this.activeSubjectIndex].questions[this.activeQuestionIndex].displayAnswer
+                    }}</ion-label
+                  >
+                </p>
+                <p
+                  *ngIf="this.gameInst.subjectSet[this.activeSubjectIndex].questions[this.activeQuestionIndex].orderAnswered > 0 && 
+              this.gameInst.subjectSet[this.activeSubjectIndex].questions[this.activeQuestionIndex].isCorrect"
+                >
+                  <ion-icon name="checkmark-sharp" color="success"></ion-icon>
+                </p>
+
+                <p
+                  *ngIf="this.gameInst.subjectSet[this.activeSubjectIndex].questions[this.activeQuestionIndex].orderAnswered <= 0"
+                >
+                  &nbsp;
+                </p>
+              </ion-col>
+            </ion-row>
+          </ion-grid>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+    <ion-grid>
+      <ion-row>
+        <ion-col style="font-size: 16px"
+          ><b
+            >SCORE:
+            <span [style.color]="score >= 0 ? 'blue' : 'red'">
+              {{ score }}
+            </span></b
+          ></ion-col
+        >
+      </ion-row>
+      <ion-row>
+        <ion-col>
+          <ion-button type="submit" color="primary" (click)="getNewGame()">
+            <ion-icon slot="start" name="flash-outline" />
+            New Game
+          </ion-button>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+  </div>
+</ion-content>

@@ -1,0 +1,80 @@
+.subject-highlighted-selection {
+  background-color: #FFFF00;
+}
+.subject-unhighlighted {
+  background-color: #ffae42;
+}
+
+.question-highlighted {
+  --background: #00ffff;
+//  color: black;
+}
+
+.question-unhighlighted {
+  --background: #00b7eb;
+ // color: black;
+}
+
+.question-previously-picked {
+  background-color: #00b7eb;
+  color: grey;
+}
+
+ion-icon {
+	width: 30px;
+  height: 30px;
+}
+
+ion-badge {
+	// width: 30px;
+  // height: 30px;
+  background: red;
+  color: white;
+  padding: 5px;
+}
+
+ion-img::part(image) {
+  max-width: 300px;
+  max-height: 250px;
+  object-fit: contain; /* or cover */
+}
+
+.subject-button ion-button {
+//  max-width: 150px; // or percent such as 80%
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* optional: limit width relative to column */
+  max-width: 80%;
+}
+.subject-button span {
+  // text-transform: none;
+  font-size: 11px;
+}
+
+.subjects {
+background-color: #dddddd;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+/* give a little gutter between the left question column and the main content */
+.questions-col {
+  padding-right: 8px;
+}
+
+.main-content-col {
+  padding-left: 8px;
+}
+
+/* reduce padding a bit on very narrow screens */
+@media (max-width: 480px) {
+  .questions-col {
+    padding-right: 6px;
+  }
+  .main-content-col {
+    padding-left: 6px;
+  }
+}

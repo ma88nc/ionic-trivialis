@@ -1,0 +1,332 @@
+ {
+  "dateAttempted": "2025-01-12",
+  "subjectSet": [
+    {
+      "subject": "Add a Letter",
+      "questions": [
+        {
+          "questionId": "4dd2dc58-95c4-4faf-aa4d-3b165e1bb290",
+          "questionText": "Add a letter to \"gable\" to get a word meaning to risk money or something of value.",
+          "correctAnswers": [{ "answer": "gamble" }],
+          "displayAnswer": "gamble",
+          "difficultyLevel": 1,
+          "userAnswer": "",
+          "isCorrect": null,
+          "orderInGame": 1,
+          "orderAnswered": 0
+        },
+        {
+          "questionId": "b8cfca06-320d-4a42-98f0-93bf4f739f56",
+          "questionText": "Add a letter to \"boat\" to get this word that means to expand or distend as with water or air.",
+          "correctAnswers": [{ "answer": "bloat" }],
+          "displayAnswer": "bloat",
+          "difficultyLevel": 2,
+          "userAnswer": "",
+          "isCorrect": null,
+          "orderInGame": 2,
+          "orderAnswered": 0
+        },
+        {
+          "questionId": "d86b395a-6e2f-421e-8a36-c22f36f6ddd3",
+          "questionText": "Add a letter to \"contact\" to get a word meaning an agreement between parties to do something specified.",
+          "correctAnswers": [{ "answer": "contract" }],
+          "displayAnswer": "contract",
+          "difficultyLevel": 3,
+          "userAnswer": "",
+          "isCorrect": null,
+          "orderInGame": 3,
+          "orderAnswered": 0
+        },
+        {
+          "questionId": "9cd674df-964b-48dd-beb6-23f172875478",
+          "questionText": "Add a letter to \"lunge\" to get a word meaning to rest or recline.",
+          "correctAnswers": [{ "answer": "lounge" }],
+          "displayAnswer": "lounge",
+          "difficultyLevel": 4,
+          "userAnswer": "",
+          "isCorrect": null,
+          "orderInGame": 4,
+          "orderAnswered": 0
+        },
+        {
+          "questionId": "9388527b-0822-4701-9539-df712a0268c1",
+          "questionText": "Add a letter to \"pout\" to get a word meaning a young fowl.",
+          "correctAnswers": [{ "answer": "poult" }],
+          "displayAnswer": "poult",
+          "difficultyLevel": 5,
+          "userAnswer": "",
+          "isCorrect": null,
+          "orderInGame": 5,
+          "orderAnswered": 0
+        }
+      ]
+    },
+
+    {
+      "subject": "Alphabetically First",
+      "questions": [
+        {
+          "questionId": "e1f16a1f-dc8b-4b96-9c44-490b3b9f866d",
+          "questionText": "Alphabetically it's the first continent.",
+          "correctAnswers": [{ "answer": "africa" }],
+          "displayAnswer": "Africa",
+          "difficultyLevel": 1
+        },
+        {
+          "questionId": "e29f8da5-4074-49a5-90fb-1d6457078e39",
+          "questionText": "Alphabetically it is the first of the Ivy League schools.",
+          "correctAnswers": [
+            { "answer": "brown" },
+            { "answer": "brown university" }
+          ],
+          "displayAnswer": "Brown",
+          "difficultyLevel": 2
+        },
+
+        {
+          "questionId": "8958965a-d89f-4f37-a4e5-618bb25b43a7",
+          "questionText": "This is alphabetically the first of the Noble gases.",
+          "correctAnswers": [{ "answer": "argon" }],
+          "displayAnswer": "Argon",
+          "difficultyLevel": 3
+        },
+        {
+          "questionId": "9349cb8a-e410-4709-9f9c-78b10ee6fbe1",
+          "questionText": "Arranged alphabetically by surname, he is the first in the list of actors to play James Bond in the official movie series.",
+          "correctAnswers": [
+            { "answer": "brosnan" },
+            { "answer": "pierce brosnan" }
+          ],
+          "displayAnswer": "Pierce Brosnan",
+          "difficultyLevel": 4
+        },
+
+        {
+          "questionId": "e3b663ad-d18c-4fe1-8b59-c28ccb43f3bc",
+          "questionText": "Alphabetically he is the first of the Three Musketeers.",
+          "correctAnswers": [{ "answer": "aramis" }],
+          "displayAnswer": "Aramis",
+          "difficultyLevel": 5
+        }
+      ]
+    },
+
+    {
+      "subject": "19th Century Photographs",
+      "questions": [
+        {
+          "questionId": "bd002b17-1ab5-423e-b8d2-07931f3c7552",
+          "questionText": "He was still a general in the Confederate Army when this portrait was taken in 1864.",
+          "correctAnswers": [
+            { "answer": "lee" },
+            { "answer": "robert e[.]? lee", "isRegex": true }
+          ],
+          "displayAnswer": "Robert E. Lee",
+          "difficultyLevel": 1,
+          "hasImage": true,
+          "imagePath": "https://upload.wikimedia.org/wikipedia/commons/5/59/Robert_Edward_Lee_%283x4_cropped%29.jpg"
+        },
+
+        {
+          "questionId": "c614f819-8cf2-419e-a227-1b90d7fd3b35",
+          "questionText": "This chief and holy man of the Hunkpapa Lakota led his people's resistance against the U.S. government in the Great Plains region.",
+          "correctAnswers": [{ "answer": "sitting bull" }],
+          "displayAnswer": "Sitting Bull",
+          "difficultyLevel": 2,
+          "hasImage": true,
+          "imagePath": "https://www.pbs.org/wgbh/americanexperience/media/filer_public_thumbnails/filer_public/80/60/80605d78-76e0-469e-ad00-452603ded990/oakley-sitting-bull-loc.jpg__600x825_q85_crop_subsampling-2.jpg"
+        },
+
+        {
+          "questionId": "32e2c486-31e3-4176-84ae-c1f86086cd7a",
+          "questionText": "Born a slave, he was a leader of the abolitionist movement and a proponent for equal rights for all.",
+          "correctAnswers": [
+            { "answer": "douglass" },
+            { "answer": "frederick douglass" }
+          ],
+          "displayAnswer": "Frederick Douglass",
+          "difficultyLevel": 3,
+          "hasImage": true,
+          "imagePath": "https://cdn.uncf.org/wp-content/uploads/Programs/frederick-douglass-new-reppublic-800-768x432.jpg"
+        },
+
+        {
+          "questionId": "6f33b59e-64b8-46cc-b39b-6c3faa980162",
+          "questionText": "Fewer than a dozen of the 1,800 poems of this reclusive woman were published in her lifetime.",
+          "correctAnswers": [
+            { "answer": "dickinson" },
+            { "answer": "emily dickinson" }
+          ],
+          "displayAnswer": "Emily Dickinson",
+          "difficultyLevel": 4,
+          "hasImage": true,
+          "imagePath": "https://www.emilydickinsonmuseum.org/wp-content/uploads/Theme-Images/daguerreotype-cropped-corrected-1-251x400.jpg"
+        },
+
+        {
+          "questionId": "58c4c728-222f-4015-9819-e8c77a646af2",
+          "questionText": "This outlaw, born Henry McCarty but much better known by this three word nickname, was convicted of murder, escaped prison and ultimately was shot to death at the age of 21.",
+          "correctAnswers": [{ "answer": "billy the kid" }],
+          "displayAnswer": "Billy the Kid",
+          "difficultyLevel": 5,
+          "hasImage": true,
+          "imagePath": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Billykid.jpg"
+        }
+      ]
+    },
+
+    {
+      "subject": "Anagrams",
+      "questions": [
+        {
+          "questionId": "397cf4c3-f4a6-4a60-9e57-fa757a49f05c",
+          "questionText": "One means to become less bright; the other is the inability to hear. (4 letters)",
+          "correctAnswers": [{ "answer": "fade[,;]?[ ]?deaf", "isRegex": true }],
+          "displayAnswer": "fade, deaf",
+          "difficultyLevel": 1
+        },
+        {
+          "questionId": "ed45c23c-acd3-4a7c-873e-c1ea64e4341f",
+          "questionText": "One means promptly or quickly. The other is a subatomic particle found in an atom's nucleus. (6 letters)",
+          "correctAnswers": [
+            { "answer": "pronto[,;]?[ ]?proton", "isRegex": true }
+          ],
+          "displayAnswer": "pronto, proton",
+          "difficultyLevel": 2
+        },
+
+        {
+          "questionId": "95b52f1f-9c71-4bdc-8c35-22ec05843914",
+          "questionText": "One means to concur. The other is to be enthusiastic or show strong interest. (5 letters)",
+          "correctAnswers": [
+            { "answer": "agree[,;]?[ ]?eager", "isRegex": true }
+          ],
+          "displayAnswer": "agree, eager",
+          "difficultyLevel": 3
+        },
+        {
+          "questionId": "d660a79a-0900-4de9-a928-4ffc192f1906",
+          "questionText": "One is a connection between two people, things or concepts. The other means of or from East Asia. (8 letters)",
+          "correctAnswers": [
+            { "answer": "relation[,;]?[ ]?oriental", "isRegex": true }
+          ],
+          "displayAnswer": "relation, oriental",
+          "difficultyLevel": 4
+        },
+        {
+          "questionId": "e6c2ff59-6ac3-412f-9597-2c2e60958972",
+          "questionText": "One can mean plain, simple or country-like. The other is a type of tree that produces juicy, acidic fruit, such as lemons and oranges. (6 letters)",
+          "correctAnswers": [
+            { "answer": "rustic[,;]?[ ]?citrus", "isRegex": true }
+          ],
+          "displayAnswer": "rustic, citrus",
+          "difficultyLevel": 5
+        }
+      ]
+    },
+
+    {
+      "subject": "Alma Maters of the Famous",
+      "questions": [
+        {
+          "questionId": "9bd734f9-d7c9-4641-9dfd-050f787072c8",
+          "questionText": "George H. W. Bush",
+          "correctAnswers": [{ "answer": "yale", "isRegex": false }],
+          "displayAnswer": "Yale",
+          "difficultyLevel": 2
+        },
+        {
+          "questionId": "b4e42264-011a-4109-bfe2-7e01dcd8694b",
+          "questionText": "Jimmy Carter",
+          "correctAnswers": [{ "answer": "georgia tech", "isRegex": false }],
+          "displayAnswer": "Georgia Tech",
+          "difficultyLevel": 1
+        },
+        {
+          "questionId": "f1e70aad-6ea3-48e6-af05-0b38830a7e38",
+          "questionText": "Tom Scholz (of the band Boston)",
+          "correctAnswers": [
+            { "answer": "mit", "isRegex": false },
+            {
+              "answer": "massachusetts institute of technology",
+              "isRegex": false
+            }
+          ],
+          "displayAnswer": "MIT",
+          "difficultyLevel": 4
+        },
+        {
+          "questionId": "1c67dada-b005-4ba7-872b-1d9045db5c7b",
+          "questionText": "Meryl Streep",
+          "correctAnswers": [{ "answer": "vassar", "isRegex": false }],
+          "displayAnswer": "Vassar",
+          "difficultyLevel": 3
+        },
+        {
+          "questionId": "08df5f9a-186a-4dbf-b4ac-cf698dca162d",
+          "questionText": "John Wayne",
+          "correctAnswers": [
+            { "answer": "usc", "isRegex": false },
+            { "answer": "southern cal", "isRegex": false },
+            { "answer": "southern california", "isRegex": false }
+          ],
+          "displayAnswer": "USC",
+          "difficultyLevel": 5
+        }
+      ]
+    },
+
+    {
+      "subject": "Number of ...",
+      "questions": [
+        {
+          "questionId": "623fe45e-3268-4c0c-b6d0-efd2519ca9f9",
+          "questionText": "Number of wives of Henry VIII",
+          "correctAnswers": [
+            { "answer": "6", "isRegex": false },
+            { "answer": "six", "isRegex": false }
+          ],
+          "displayAnswer": "6",
+          "difficultyLevel": 2
+        },
+        {
+          "questionId": "bd99a47e-eaa4-4aee-a0ff-572d3508a491",
+          "questionText": "Number of original US colonies",
+          "correctAnswers": [
+            { "answer": "13", "isRegex": false },
+            { "answer": "thirteen", "isRegex": false }
+          ],
+          "displayAnswer": "13",
+          "difficultyLevel": 1
+        },
+        {
+          "questionId": "6c0c0dc4-3276-473f-971e-91f9bf347dab",
+          "questionText": "Number of chromosome pairs in humans",
+          "correctAnswers": [{ "answer": "23", "isRegex": false }],
+          "displayAnswer": "23",
+          "difficultyLevel": 3
+        },
+        {
+          "questionId": "dc6e7c41-cd53-4559-a2d1-65d3d725eef6",
+          "questionText": "Number of Hogwarts houses in the Harry Potter books",
+          "correctAnswers": [
+            { "answer": "4", "isRegex": false },
+            { "answer": "four", "isRegex": false }
+          ],
+          "displayAnswer": "4",
+          "difficultyLevel": 4
+        },
+        {
+          "questionId": "d205e187-6258-4820-8663-a8ca3e585534",
+          "questionText": "Number of Canadian provinces (excluding territories)",
+          "correctAnswers": [
+            { "answer": "10", "isRegex": false },
+            { "answer": "ten", "isRegex": false }
+          ],
+          "displayAnswer": "10",
+          "difficultyLevel": 5
+        }
+      ]
+    }
+  ]
+}
