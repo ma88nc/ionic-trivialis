@@ -13,3 +13,7 @@ export class SubjectSet {
         public questions: UserAnswer[] //Question[]
     ) {}
 }
+
+export interface QuizCollection {
+  quizzes: GameInstance[];
+}

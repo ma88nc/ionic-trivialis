@@ -1,8 +1,9 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, ElementRef, OnInit, ViewChild } from '@angular/core';
 import { GameService } from './game.service';
 import { GameInstance } from './game-instance.model';
 import { DecodeHtmlString } from '../shared/decodeHtml.pipe';
 import { environment } from 'src/environments/environment';  // was environment.prod
+import { IonInput } from '@ionic/angular';
 
 @Component({
   standalone: false,
@@ -13,6 +14,25 @@ import { environment } from 'src/environments/environment';  // was environment.
 export class GameBoardPage implements OnInit {
 
   constructor(private gameSvc: GameService) { }
+  //@ViewChild('input', { read: ElementRef, static: false }) inputEl!: ElementRef;
+  @ViewChild('input', { read: ElementRef, static: false }) set inputRef(content: ElementRef) {
+    if (content) {
+      // The element is now officially rendered in the DOM
+      this.focusInput(content);
+    }
+  }
+
+  @ViewChild('input', { static: false }) input!: IonInput;
+
+  private focusInput(inputElement?: ElementRef): void {
+    setTimeout(() => {
+      if (inputElement) {
+        inputElement.nativeElement.querySelector('input')?.focus();
+      } else {
+        this.input?.setFocus();
+      }
+    }, 50);
+  }
 
   public topics: string[] = []; // = ['Add a Letter', 'Alphabetically First', '19th Century Photographs', 'Anagrams', 'Alma Maters of', 'Number of ...'];
 
@@ -42,6 +62,18 @@ export class GameBoardPage implements OnInit {
       }) */
      this.getNewGame();
   }
+
+/*  ionViewDidEnter() {
+    setTimeout(() => {
+      if (this.inputEl && this.inputEl.nativeElement) {
+        // Query the underlying HTML input hidden inside Ionic's Shadow DOM
+        const nativeInput = this.inputEl.nativeElement.querySelector('input');
+        if (nativeInput) {
+          nativeInput.focus();
+        }
+      }
+    }, 200);
+  } */
 
   // These are for subject/topic array
   // https://stackoverflow.com/questions/59182459/how-to-create-dynamic-grid-component-in-angular-8-and-bootstrap-whit-row-col-an
@@ -108,6 +140,7 @@ export class GameBoardPage implements OnInit {
 
     // TODO - Use questionArray below.
     this.score += (this.activeQuestionIndex + 1) * 100 * (isCorrect ? 1 : -1);
+    this.focusInput();
     // this.gameInst.subjectSet[this.activeSubjectIndex].questions[this.activeQuestionIndex] = ...{ .isCorrect: this.isAnswerCorrect(this.userAnswer)}
     console.log(this.gameInst);
   }
@@ -160,8 +193,8 @@ export class GameBoardPage implements OnInit {
         // this.gameInst.subjectSet[0].questions[0].questionText += " log\u2081\u2080 1000";
         // this.gameInst.subjectSet[0].questions[1].questionText;
         //this.gameInst.subjectSet[0].questions[0].imagePath = "Entertainment/Puffy_Shirt_2006.jpg";
-        this.gameInst.subjectSet[0].questions[0].imagePath = "Science/Eqn_Quadratic2.gif";
-        this.gameInst.subjectSet[0].questions[0].hasImage = true;
+        //this.gameInst.subjectSet[0].questions[0].imagePath = "Science/Eqn_Quadratic2.gif";
+        //this.gameInst.subjectSet[0].questions[0].hasImage = true;
       })
   }
   

@@ -1,0 +1,5813 @@
+{
+    "quizzes": [
+{
+  "subjectSet": [
+    {
+      "subject": "Famous Movie Scenes - Name the Movie",
+      "mainSubject": "Movies & TV",
+      "questions": [
+        {
+          "questionID": "2b7f3b09-d0b0-40d1-2f4b-08de53a8abd4",
+          "questionText": "King Arthur and his men are forced to answer three questions (including what is the airspeed velocity of an unladen swallow?) by the Bridgekeeper in order to cross the Bridge of Death, or else plunge into the Gorge of Eternal Peril. Spoiler: The Bridgekeeper should have known if he meant African or European swallow!",
+          "displayAnswer": "Monty Python and the Holy Grail",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^monty python (&|and) the holy grail$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "a88e11e4-548c-4bdd-2f58-08de53a8abd4",
+          "questionText": "Spaceship officer Kane (John Hurt) is just minding his own business when a Xenomorph larvae suddenly bursts from his chest.",
+          "displayAnswer": "Alien",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "alien",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "a5771d38-e3a4-45be-2f5e-08de53a8abd4",
+          "questionText": "There are chariot races and then there are chariot races. Charleston Heston as the title character outlasts his ex-friend and now Roman official in a memorable scene from this classic.",
+          "displayAnswer": "Ben-Hur",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^ben[-\\s]?hur$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "cbf43255-1299-459c-2f5d-08de53a8abd4",
+          "questionText": " What a glorious feeling Don Lockwood (Gene Kelly) had as he splashed through the title song in this musical.",
+          "displayAnswer": "Singin' in the Rain",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^singin['g]? in the rain$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "3dd8b889-b0e2-4673-2f59-08de53a8abd4",
+          "questionText": "Tom Powers (Jimmy Cagney) smashes a grapefruit in the face of Kitty (Mae Clarke) in this early gangster film.",
+          "displayAnswer": "The Public Enemy",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(the )?public enemy$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Country by Location - South America",
+      "mainSubject": "Geography",
+      "questions": [
+        {
+          "questionID": "eaba6b2f-3143-46f3-a6ff-0d9a26feed63",
+          "questionText": "Name the highlighted country.",
+          "displayAnswer": "Colombia",
+          "hasImage": true,
+          "imagePath": "Geography/map_location_Colombia.png",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "colombia",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "d63f7059-a622-4fb9-bf58-dffb7f8f21c2",
+          "questionText": "Name the highlighted country.",
+          "displayAnswer": "Paraguay",
+          "hasImage": true,
+          "imagePath": "Geography/map_location_Paraguay.png",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "paraguay",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "7b9f8dd5-c08a-4c0e-b8e3-29ad5ec44781",
+          "questionText": "Name the highlighted country.",
+          "displayAnswer": "Bolivia",
+          "hasImage": true,
+          "imagePath": "Geography/map_location_Bolivia.png",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "bolivia",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "fce0e6a4-bc86-4c2c-863b-08de603a7929",
+          "questionText": "Shown in red, this is a region and overseas department of a European country, not an independent nation.",
+          "displayAnswer": "French Guiana",
+          "hasImage": true,
+          "imagePath": "Geography/map_location_french-guiana-region.png",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^french gu[iy]ana$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "e34e9db8-f88c-469f-ad20-c0d6efdffc59",
+          "questionText": "Name the highlighted country.",
+          "displayAnswer": "Suriname",
+          "hasImage": true,
+          "imagePath": "Geography/map_location_Suriname.png",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^suriname?$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Runners Up",
+      "mainSubject": "Mixed Bag",
+      "questions": [
+        {
+          "questionID": "0d239118-41ad-4c52-bd54-8dd579f2e099",
+          "questionText": "It’s the horse that finishes second in a race (in between “win” and “show”).",
+          "displayAnswer": "Place",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "place",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "4382359c-8f52-48e4-b405-62aad75ed179",
+          "questionText": "In 1954, John Landy was the second person to break this running milestone, shortly after Roger Bannister did.",
+          "displayAnswer": "4 minute mile",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(4 minute )|(4:00 )mile$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "4caf67a7-ade2-4295-8af2-7737a25ff99e",
+          "questionText": "After the Toyota Corolla with 43 million units sold, the F-Series truck by this manufacturer places second with 40 million.",
+          "displayAnswer": "Ford",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "ford",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "3a5b6310-26bf-4a53-a765-8dc4f6845684",
+          "questionText": "In May 1961, he became the second man in space and the first American, after Yuri Gagarin of the USSR.",
+          "displayAnswer": "Alan Shepard",
+          "hasImage": true,
+          "imagePath": "History/Alan-Shepard.jpg",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(alan\\s)?shepard$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "8a93482a-5bf9-4ebd-ae11-da0793b8884f",
+          "questionText": "This inventor filed his intent to patent his telephone design a mere two hours after Alexander Graham Bell.",
+          "displayAnswer": "Elisha Gray",
+          "hasImage": true,
+          "imagePath": "Science/elisha_gray_portrait.jpg",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(elisha\\s)?gray$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Words Beginning with \"syn\"",
+      "mainSubject": "Word Play",
+      "questions": [
+        {
+          "questionID": "fbcec95c-abc2-484a-4967-08de3c1a5e65",
+          "questionText": "Synechia is an abnormality of this part of the body characterized by adhesion, especially of the iris to the cornea.",
+          "displayAnswer": "Eye",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "eye",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "cd2c35bf-263c-414e-a5b7-6e7f6a08b32a",
+          "questionText": "This is a brief summary or outline of something.",
+          "displayAnswer": "Synopsis",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "synopsis",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "5fd58fa4-638d-4a77-918a-e844e07a2e7c",
+          "questionText": "This is a junction between two nerve cells across which impulses travel.",
+          "displayAnswer": "Synapse",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "synapse",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "072f906a-0b46-4998-ae8b-81e41de515a6",
+          "questionText": "From the Greek for \"together\" and \"finger\", this is the condition of having several fingers or toes fused together, as shown here.",
+          "displayAnswer": "syndactyly",
+          "hasImage": true,
+          "imagePath": "Science/Complex_Syndactyly_New_born_boy.jpg",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "syndactyly",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "9532cc4b-2102-4694-9ea0-7c21d5467105",
+          "questionText": "This is an amalgamation of different religions, often occurring when foreign beliefs are introduced to another culture.",
+          "displayAnswer": "Syncretism",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "syncretism",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Fictional Cities of TV Shows",
+      "mainSubject": "Movies & TV",
+      "questions": [
+        {
+          "questionID": "f0dff77d-9db1-4c63-9fe4-cf78651ea85a",
+          "questionText": "The city of South Park in this state is home to the long running \"South Park\" animated series.",
+          "displayAnswer": "Colorado",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "colorado",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "1d388d5e-0387-4ca7-9df8-c3d572b8848f",
+          "questionText": "A Hellmouth located beneath Sunnyvale High School, in the California city of the same name, attracted vampires and other supernatural forces on this TV show.",
+          "displayAnswer": "Buffy the Vampire Slayer",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^buffy( the vampire slayer)?$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "d4e49831-086a-45fe-913e-97942e0c17d4",
+          "questionText": "Modern Stone Age family the Flintstones and their neighbors the Rubbles live in this prehistoric town.",
+          "displayAnswer": "Bedrock",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "bedrock",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "5330072d-5695-43ea-88b9-7b096c33ce28",
+          "questionText": "Lawyer Oliver Wendell Douglas moves to Hooterville to take up farming in this sitcom, though his wife Lisa would rather they remained in New York City. ",
+          "displayAnswer": "Green Acres",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "green acres",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "566e073a-04f9-452a-b1dd-1ecb2065c9f4",
+          "questionText": "Jessica Fletcher solved mysteries in Cabot Cove, Maine, on this show that ran for 12 seasons.",
+          "displayAnswer": "Murder She Wrote",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "murder she wrote",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Alphabetically Last",
+      "mainSubject": "Mixed Bag",
+      "questions": [
+        {
+          "questionID": "703a5db1-6657-4e9e-b23c-892040ed9573",
+          "questionText": "Arranged alphabetically, it's the last of the four New Testament gospels.",
+          "displayAnswer": "Matthew",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "matthew",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "4d901533-f3a4-4e8e-8b20-b1453c068388",
+          "questionText": "This NFL team's nickname is last alphabetically.",
+          "displayAnswer": "(Minnesota) Vikings",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^minnesota vikings$|^minnesota$|^vikings$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "5f56e6a6-4b38-4b9f-a352-650c12e8dcf7",
+          "questionText": "This NBA team's nickname is last alphabetically.",
+          "displayAnswer": "(Washington) Wizards",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^washington wizards$|^washington$|^wizards$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "19936680-e0d9-4e19-a964-c453a737f1db",
+          "questionText": "Alphabetically the last of the \"Honeymooners\" four main characters, arranged by first name.",
+          "displayAnswer": "Trixie",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "trixie",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "848fffe8-3f0b-49d5-aab0-df3193cc7330",
+          "questionText": "Alphabetically it is the last in the list of the Australian states.",
+          "displayAnswer": "Western Australia",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^west(ern)? australia$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dateAttempted": "2026-08-29T13:16:27.3936452-04:00"
+},
+
+{
+  "subjectSet": [
+    {
+      "subject": "Human Anatomy",
+      "mainSubject": "Science & Math",
+      "questions": [
+        {
+          "questionID": "e1286eeb-e519-4793-b596-38c0d7328085",
+          "questionText": "The nephron is the basic unit of structure in this organ.",
+          "displayAnswer": "Kidney",
+          "hasImage": false,
+          "imagePath": " ",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^kidneys?$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            },
+            {
+              "answerText": "^kidneys?$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "f59456b9-db64-4a45-89c8-fcd3fe6f4716",
+          "questionText": "This condition, the result of a hyperactive pituitary gland's overproduction of growth hormone, will result in abnormal height of the affected person.",
+          "displayAnswer": "Gigantism (giantism)",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(?:gigantism|giantism)$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "269bfd92-39ab-40ee-84f5-7310cbfbad5d",
+          "questionText": "The structure that hangs downward in the back of your mouth is known as this.",
+          "displayAnswer": "Uvula",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "uvula",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "8447e536-c541-468d-adf6-ac7d232b4d38",
+          "questionText": "This pea-sized gland is called the \"master gland\" because it secretes hormones that control other hormone-secreting glands.",
+          "displayAnswer": "Pituitary gland",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^pituitary\\s*(gland)?$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "9231150c-28f8-4b10-86bd-37bf8f6c471b",
+          "questionText": "This hormone abbreviated ADH reduces the amount of water passed as urine and thus conserves the volume of the body's fluids.",
+          "displayAnswer": "Anti-diuretic hormone",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^anti[-]*\\s*diuretic hormone$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Celebrity Birth Names",
+      "mainSubject": "Mixed Bag",
+      "questions": [
+        {
+          "questionID": "b821ae0a-f858-48cb-86ae-191417803cca",
+          "questionText": "John Francis Bongiovi, Jr.",
+          "displayAnswer": "Jon Bon Jovi",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(jon )?bon jovi$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "7d7e6650-3c37-4d2b-ae0b-127d819b53af",
+          "questionText": "Dino Paul Crocetti.",
+          "displayAnswer": "Dean Martin",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(dean\\s)?martin$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "ed3c9476-937e-46d9-9ea5-7ab02dc919f5",
+          "questionText": "Born Allan Konigsberg, he gained fame as a prolific joke writer before launching a career as an actor and director.",
+          "displayAnswer": "Woody Allen",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(woody\\s)?allen$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "573c1425-e7c8-43ef-9db4-bcc91e812c13",
+          "questionText": "Born Maurice Joseph Micklewhite, he has portrayed the title character in \"Alfie\" and Alfred Pennyworth in the \"Dark Knight\" movie series, among many others.",
+          "displayAnswer": "Michael Caine",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(michael\\s)?caine$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "4d7cbf49-1502-45e4-9f6f-52cbd2366ea0",
+          "questionText": "Archibald Leach",
+          "displayAnswer": "Cary Grant",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(cary\\s)?grant$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Seinfeld Expressions",
+      "mainSubject": "Movies & TV",
+      "questions": [
+        {
+          "questionID": "b45ba758-b43e-4211-bb70-22bdb97c0a50",
+          "questionText": "Jerry often uses this two word expression to greet a certain evil postal worker on his show.",
+          "displayAnswer": "Hello, Newman",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^hello,? newman$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "96115756-807e-445b-b78c-56bcd7d7bffa",
+          "questionText": "This two word expression (initials CT) refers to someone who violates one's personal space while speaking.",
+          "displayAnswer": "Close talker",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "Close talker",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "9c21932b-f1e6-4596-aeea-5d0a0db42421",
+          "questionText": "The ability to exhibit restraint in a certain activity was called the \"master of your\" this.",
+          "displayAnswer": "Domain",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "domain",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "fb269ab6-0cea-43d9-a5e0-dee9444bc04d",
+          "questionText": "Kramer called this intersection of 1st Street and 1st Avenue the \"_____ of the universe\".",
+          "displayAnswer": "Nexus",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "nexus",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "10beaf96-21b3-4922-39b5-08de290bf006",
+          "questionText": "After a student reporter assumes Jerry and George are a gay couple, Jerry responds that he's not gay, adding \"not that there's anything _____ ____ ____\". The phrase is repeated throughout the episode by several characters. ",
+          "displayAnswer": "wrong with that.",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "wrong with that.?",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "I Married These People",
+      "mainSubject": "Movies & TV",
+      "questions": [
+        {
+          "questionID": "2611607a-1c9e-4494-a5a9-7a3f457e03fe",
+          "questionText": "Mimi Rogers, Nicole Kidman, Katie Holmes.",
+          "displayAnswer": "Tom Cruise",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(tom\\s)?cruise$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "c9434095-f589-4ddf-46d7-08defbbde174",
+          "questionText": "Don Johnson, Steven Bauer, Antonio Banderas.",
+          "displayAnswer": "Melanie Johnson",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(melanie\\s)?johnson$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "882ed721-eb8d-4246-46d8-08defbbde174",
+          "questionText": "Jonny Lee Miller, Billy Bob Thornton, Brad Pitt.",
+          "displayAnswer": "Angelina Jolie",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(angelina\\s)?jolie$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "2d19e6da-1b02-4e97-8864-d03a952d5870",
+          "questionText": "Ava Gardner, Martha Vickers, Jan Chamberlin, and five more.",
+          "displayAnswer": "Mickey Rooney",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(mickey\\s)?rooney$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "04ce7d7b-8d0d-4eb2-b233-8b96a9588b20",
+          "questionText": "Orson Welles, Aly Khan, Dick Haymes.",
+          "displayAnswer": "Rita Hayworth",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(rita\\s)?hayworth$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Singers & their Backing Bands",
+      "mainSubject": "Popular Music",
+      "questions": [
+        {
+          "questionID": "695c99ce-63bf-4bd5-2f9b-08de53a8abd4",
+          "questionText": "They became Bruce Springsteen's backing band in 1972.",
+          "displayAnswer": "E Street Band",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(the )?e[-\\s]st(reet)? band$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "063cf7a9-fbc8-452c-ac83-54e38516f9bd",
+          "questionText": "They have been the backing band of 2015 Rock & Roll Hall of Fame inductee Joan Jett for most of her career.",
+          "displayAnswer": "The Blackhearts",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(the )?blackhearts$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "cb0b34d1-fbb8-4773-2fa0-08de53a8abd4",
+          "questionText": "Katrina Leskanich fronted this band most famous for their hit \"Walking on Sunshine.\"",
+          "displayAnswer": "The Waves",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(katrina (&|and) )?(the )?waves$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "80b471e1-b13c-4299-2fa1-08de53a8abd4",
+          "questionText": "The name of Harry Wayne Casey's backing band that was formed in 1973; two years later they had a #1 hit uh-huh uh-huh with \"That's the Way (I Like It).\"",
+          "displayAnswer": "The Sunshine Band",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(kc (&|and) )?(the )?sunshine band$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "f7939e1f-cf11-4a98-b211-987e649f6a60",
+          "questionText": "John Lyon has used this stage name with his Jersey Shore band The Asbury Jukes since its formation in the mid-1970s.",
+          "displayAnswer": "Southside Johnny",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "southside johnny",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Pen Names",
+      "mainSubject": "Literature",
+      "questions": [
+        {
+          "questionID": "7d09dc7c-c3f2-4a91-90df-0346827abfcc",
+          "questionText": "His first two books, \"Sketches by Boz\" (1836) and \"The Pickwick Papers\" (1837), were published using the pen name Boz.\r\n",
+          "displayAnswer": "Charles Dickens",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(charles\\s)?dickens$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "82e5ba30-a19f-41bf-9a4f-85fa141e4d16",
+          "questionText": "Józef Korzeniowski's stories and novels under this pen name often contained bitter commentary about European colonialism; Kurtz in the Belgian Congo is especially memorable.\r\n",
+          "displayAnswer": "Joseph Conrad",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(joseph\\s)?conrad$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "5ed0969b-ceb5-4b99-9b83-980d111b4a62",
+          "questionText": "Helen Goff created the \"Mary Poppins\" series of books under this name.",
+          "displayAnswer": "P. L. Travers",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(p.?\\s?l.?)?\\s?travers$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "393f9450-7166-43e7-8f38-0540b924a884",
+          "questionText": "David John Moore Cornwell drew from his  experience at MI6 to produce spy novels such as \"The Spy Who Came in from the Cold\" under this nom de plume.\r\n\r\n",
+          "displayAnswer": "John le Carré",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(john\\s)?le carre$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "2b2e95a8-323a-42f9-a5df-9c5057115529",
+          "questionText": "Brooklyn cousins Frederic Dannay & Manfred B. Lee teamed to write mysteries under this name.\r\n",
+          "displayAnswer": "Ellery Queen",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "ellery queen",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dateAttempted": "2026-08-29T13:18:45.9292699-04:00"
+},
+
+{
+  "subjectSet": [
+    {
+      "subject": "Legal Terms",
+      "mainSubject": "Misc. Subjects",
+      "questions": [
+        {
+          "questionID": "73d0b5b2-005e-4b90-87b4-5180100669fc",
+          "questionText": "The act of a judge disqualifying himself or herself in a case due to conflict of interest.",
+          "displayAnswer": "Recusal",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "recusal",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "7c0e9355-0377-489e-b1fc-b83b28907456",
+          "questionText": "This word derived from the Latin \"commit for safekeeping\" applies to a jury that is isolated from the public.",
+          "displayAnswer": "Sequestered",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "sequestered",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "d7f2e5ca-85c7-45ea-87ee-08de425da0a0",
+          "questionText": "It's a written or printed statement made under oath.",
+          "displayAnswer": "Affidavit",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "affidavit",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "a5975648-3445-4984-87f4-08de425da0a0",
+          "questionText": "It is a two word term for the law that is developed through decisions of the court, rather than by relying solely on statutes or regulations",
+          "displayAnswer": "Common law",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "common law",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "f79d7508-eeff-4cd1-b698-5d981f06ea5c",
+          "questionText": "This term meaning \"body of crime\" in Latin refers to the principle that a crime must have been proven to have occurred before a person can be convicted of that crime.",
+          "displayAnswer": "Corpus delicti",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "corpus delicti",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Watergate",
+      "mainSubject": "History",
+      "questions": [
+        {
+          "questionID": "2a4db8f4-cbb0-449e-9382-f7d3093d92b4",
+          "questionText": "Bob Woodward and Carl Bernstein of this newspaper led the investigation of the Watergate break-in for this newspaper.",
+          "displayAnswer": "Washington Post",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(the )?washington post$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "02564d56-e526-49be-8345-c5d6afce160f",
+          "questionText": "The group responsible for the actual break-in was given this nickname, a reference to their original mission of stopping leaks of classified information.",
+          "displayAnswer": "Plumbers",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(?:the white house |the )?plumbers$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "6c56ab0f-c8e7-4922-bb4a-d6600166690e",
+          "questionText": "He was the Chief Domestic Advisor under Richard Nixon, and was convicted of conspiracy, obstruction of justice and other charges related to Watergate.",
+          "displayAnswer": "John Ehrlichman",
+          "hasImage": true,
+          "imagePath": "History/John_Ehrlichman_in_1969.png",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(john\\s)?eh?rlichman$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "59f761c1-e1b8-4382-bc1c-b26db0516f5d",
+          "questionText": "He was the US District judge who ordered Richard Nixon to surrender the Watergate tapes.",
+          "displayAnswer": "John Sirica",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(john\\s)?sirica$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "58421569-6d04-457b-9c86-d632bdc8d6d3",
+          "questionText": "He was the first special prosecutor in the Watergate trial, but was fired on 10/20/1973 in the \"Saturday Night Massacre.\" ",
+          "displayAnswer": "Archibald Cox",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(archibald\\s)?cox$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Classic Rock Albums - Name the Artist",
+      "mainSubject": "Popular Music",
+      "questions": [
+        {
+          "questionID": "bb482b04-e15c-4159-c7c4-08de47e90339",
+          "questionText": "Abbey Road (1969)",
+          "displayAnswer": "The Beatles",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(the )?beatles$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "92f8d040-2f20-41f7-c7d1-08de47e90339",
+          "questionText": "London Calling (1979)",
+          "displayAnswer": "The Clash",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(the )?clash$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "1d504503-3469-4656-c7c5-08de47e90339",
+          "questionText": "Get Your Wings (1974)",
+          "displayAnswer": "Aerosmith",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "aerosmith",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "a4979ab9-05e3-4abb-98f6-1fc9918d945e",
+          "questionText": "Brain Salad Surgery (1973)",
+          "displayAnswer": "Emerson, Lake & Palmer",
+          "hasImage": false,
+          "imagePath": null,
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^emerson,? lake,? ((&)|(and)) palmer$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            },
+            {
+              "answerText": "elp",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "fbb02439-8154-47b4-c7c8-08de47e90339",
+          "questionText": "Homecoming (1972)",
+          "displayAnswer": "America",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "america",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Country by Location - South America",
+      "mainSubject": "Geography",
+      "questions": [
+        {
+          "questionID": "5b7471c6-3ac9-4c69-aa93-25c869abbbeb",
+          "questionText": "Name the highlighted country.",
+          "displayAnswer": "Chile",
+          "hasImage": true,
+          "imagePath": "Geography/map_location_Chile.png",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "chile",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "fc36d80f-f7c6-4f43-863c-08de603a7929",
+          "questionText": "Lake Maracaibo, shown in the center of the satellite image, is enclosed within this country.",
+          "displayAnswer": "Venezuela",
+          "hasImage": true,
+          "imagePath": "Geography/lake-maracaibo-satellite-image.png",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "venezuela",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "d880a188-3468-4a46-9434-631aaf154d9f",
+          "questionText": "Name the highlighted country.",
+          "displayAnswer": "Argentina",
+          "hasImage": true,
+          "imagePath": "Geography/map_location_Argentina.png",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "argentina",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "48f7fded-8beb-47ac-a802-39837d303809",
+          "questionText": "Name the highlighted country.",
+          "displayAnswer": "Venezuela",
+          "hasImage": true,
+          "imagePath": "Geography/map_location_Venezuela.png",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "venezuela",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "7b9f8dd5-c08a-4c0e-b8e3-29ad5ec44781",
+          "questionText": "Name the highlighted country.",
+          "displayAnswer": "Bolivia",
+          "hasImage": true,
+          "imagePath": "Geography/map_location_Bolivia.png",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "bolivia",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Plead the Fifth",
+      "mainSubject": "Mixed Bag",
+      "questions": [
+        {
+          "questionID": "9c75c5aa-1f2f-4641-abab-23b8ce8849c7",
+          "questionText": "His fifth symphony, which premiered in 1809, is considered the most famous piece of Western music in the world.",
+          "displayAnswer": "Beethoven",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(ludwig van )?beethoven$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "c536653f-a4a5-40c8-a549-6936adb6e4ed",
+          "questionText": "He was the fifth president of the U.S. and was in office from 1817-1825.",
+          "displayAnswer": "James Monroe",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(james\\s)?monroe$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "23692074-3da7-4208-c7aa-08de47e90339",
+          "questionText": "It's the fifth Harry Potter book.",
+          "displayAnswer": "Harry Potter and the Order of the Phoenix",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(harry potter and )?(the )?order of the phoenix$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "4deb8729-b2af-4ca1-9d1f-8ca2a035a4be",
+          "questionText": "The fifth amendment to the U.S. Constitution states that a person cannot be \"deprived of life, liberty, or property, without ___ _____ of law\".",
+          "displayAnswer": "Due process",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "due process",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "bdebcf62-cf82-41ec-8dc5-910144977353",
+          "questionText": "At 360,000 square miles, this desert located in Botswana, Namibia and South Africa ranks fifth on the list of largest deserts.",
+          "displayAnswer": "Kalahari",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^kalahari( desert)?$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "North of, South of or Crosses the Equator?",
+      "mainSubject": "Geography",
+      "questions": [
+        {
+          "questionID": "2437156e-f175-4f62-c7a2-08de47e90339",
+          "questionText": "Australia",
+          "displayAnswer": "South",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "\\bsouth\\b",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "97d3236e-8112-49a2-c799-08de47e90339",
+          "questionText": "Yemen",
+          "displayAnswer": "North",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "\\bnorth\\b",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "eb9aa293-c464-4241-c79c-08de47e90339",
+          "questionText": "Philippines",
+          "displayAnswer": "North",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "\\bnorth\\b",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "449e6c99-633e-4db2-c79b-08de47e90339",
+          "questionText": "Nigeria",
+          "displayAnswer": "North",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "\\bnorth\\b",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "843bb5c5-099f-4f6c-c7a5-08de47e90339",
+          "questionText": "Kenya",
+          "displayAnswer": "Crosses",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "\\bcrosses\\b",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dateAttempted": "2026-08-29T13:20:53.4078668-04:00"
+},
+
+{
+  "subjectSet": [
+    {
+      "subject": "I Was Born First",
+      "mainSubject": "Mixed Bag",
+      "questions": [
+        {
+          "questionID": "58519b40-8532-45ec-ba4a-7f63fc187818",
+          "questionText": "Anne Boleyn, Catherine of Aragon, Jane Seymour.",
+          "displayAnswer": "Catherine of Aragon",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^catherine( of aragon)?$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "803bf57d-fff8-4d14-b060-d96789c35cbe",
+          "questionText": "English monarchs: King Henry I, King John, King William I.",
+          "displayAnswer": "King William I",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(king\\s)?\\bwilliam\\b",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "653fec0a-1e50-4c14-a582-774b6718a865",
+          "questionText": "Gerald Ford, Richard Nixon, Ronald Reagan.",
+          "displayAnswer": "Ronald Reagan",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(ronald\\s)?reagan$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "e19a969c-555e-4960-a5c7-487157617d6e",
+          "questionText": "French rulers: King Louis XIV, King Louis-Philippe, Napoleon Bonaparte.",
+          "displayAnswer": "King Louis XIV",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(?!.*(philippe|napoleon)).*louis xiv.*$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "4df5b951-0618-4693-8d23-2676f3b6e799",
+          "questionText": "Aeschylus, Euripides, Sophocles.",
+          "displayAnswer": "Aeschylus",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "aeschylus",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "This Country Owns It",
+      "mainSubject": "Geography",
+      "questions": [
+        {
+          "questionID": "8387c4bb-18f6-4606-915b-146127c79bcc",
+          "questionText": "French Guiana on this continent is an overseas department of France.",
+          "displayAnswer": "South America",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "south america",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "a1828310-bcb5-4fdf-46d3-08defbbde174",
+          "questionText": "Pitcairn",
+          "displayAnswer": "United Kingdom",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "(^uk$)|(^united kingdom$)",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "b8aaeef4-4a91-40b9-46d1-08defbbde174",
+          "questionText": "Faroe Islands",
+          "displayAnswer": "Denmark",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "denmark",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "5ebc00b5-56d4-4752-46d0-08defbbde174",
+          "questionText": "Tahiti",
+          "displayAnswer": "France",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "france",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "205f117f-69b2-49dd-46d5-08defbbde174",
+          "questionText": "Guadeloupe",
+          "displayAnswer": "France",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "france",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Name the Mystery Writer Given Detective Name",
+      "mainSubject": "Literature",
+      "questions": [
+        {
+          "questionID": "641f5358-3f0d-4e52-0517-08de221e6d5d",
+          "questionText": "Miss Marple",
+          "displayAnswer": "Agatha Christie",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(agatha\\s)?christie$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "8836d189-d9c9-4875-260a-08de22e17653",
+          "questionText": "Inspector Morse",
+          "displayAnswer": "Colin Dexter",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(colin\\s)?dexter$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "23b76bfc-9dfc-49ce-260c-08de22e17653",
+          "questionText": "V.I. Warshawski",
+          "displayAnswer": "Sara Paretsky",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(sarah?\\s)?paretsk[yi]$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "7673d9b6-1944-4a2f-0515-08de221e6d5d",
+          "questionText": "Lord Peter Wimsey",
+          "displayAnswer": "Dorothy L. Sayers",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(dorothy (l\\.? )?)?sayers$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "758e6f06-546c-44aa-051e-08de221e6d5d",
+          "questionText": "Philip Marlowe",
+          "displayAnswer": "Raymond Chandler",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(ray(mond)?\\s)?chandler$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Quotations",
+      "mainSubject": "Mixed Bag",
+      "questions": [
+        {
+          "questionID": "8083bce0-84d5-467c-9f93-bc2431a84887",
+          "questionText": "\"Speak softly and carry a big stick; you will go far.\"",
+          "displayAnswer": "Theodore Roosevelt",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(theodore\\s)?roosevelt$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "da635ec4-28df-4b53-7ac8-08de343a2ddf",
+          "questionText": "\"Genius is one percent inspiration and ninety-nine percent perspiration.\"",
+          "displayAnswer": "Thomas Edison",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(thomas\\s)?edison$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "b74f27b1-6911-471a-b346-0dba4ed9ad24",
+          "questionText": "\"I used to be Snow White, but I drifted.\"",
+          "displayAnswer": "Mae West",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(mae\\s)?west$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "322794c7-fa34-4932-b1b3-1f90b3dff650",
+          "questionText": "This American humorist said: \"Go to heaven for the climate, hell for the company.\"",
+          "displayAnswer": "Mark Twain",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(mark\\s)?twain$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "2017cd46-9a71-47fc-bfd2-f023c45b4d09",
+          "questionText": "\"To err is human; to forgive, divine.\"\r\n",
+          "displayAnswer": "Alexander Pope",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(alexander\\s)?pope$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Radioactivity",
+      "mainSubject": "Science & Math",
+      "questions": [
+        {
+          "questionID": "3d3ff532-cf02-4b4b-2f8d-08de53a8abd4",
+          "questionText": "This element is the most common fuel in nuclear reactors.",
+          "displayAnswer": "Uranium",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "uranium",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "9054b307-e93c-4b9c-2f8b-08de53a8abd4",
+          "questionText": "This instrument is commonly used to detect radioactivity.",
+          "displayAnswer": "Geiger-Muller (or Geiger) counter",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^geiger([-\\s]muller)? counter$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "51a99b43-3ce2-4917-87e6-4abe77437e74",
+          "questionText": "Alpha decay occurs when a nucleus emits an alpha particle consisting of two protons and two neutrons, equivalent to the nucleus of this atom.",
+          "displayAnswer": "Helium",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "helium",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "a9f278b1-30ce-410f-99a9-573fc63e7d21",
+          "questionText": "This is the process in which radioactive decay results in the creation of an atom of a different element.",
+          "displayAnswer": "Nuclear transmutation",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(nuclear )?transmutation$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "18d3d491-79a7-4612-8e87-4d785f63ce2e",
+          "questionText": "In this type of decay, a high speed electron or positron plus a neutrino, are emitted by the nucleus of an atom.",
+          "displayAnswer": "Beta decay",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^beta( decay?)$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Lakes and Inland Seas",
+      "mainSubject": "Geography",
+      "questions": [
+        {
+          "questionID": "a7ae0384-fdcb-48e4-9137-b1bf46b27ca3",
+          "questionText": "This inland sea forms the eastern boundary of Romania and Bulgaria, and the northern boundary of Turkey.",
+          "displayAnswer": "Black Sea",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "black sea",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "f124217e-34aa-4b2e-bd27-68c09d164d1c",
+          "questionText": "At an altitude of 12,500 feet, it borders Bolivia and Peru and is the second largest lake in South America.",
+          "displayAnswer": "Lake Titicaca",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(lake\\s)?titicaca$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "2e0f2f51-4dee-420a-9825-063f4878b0d5",
+          "questionText": "This lake, the largest entirely within Canada, was named for animals inhabiting its shores.",
+          "displayAnswer": "Great Bear Lake",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^great bear(\\slake)?$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "298677a6-7ee4-4b5c-a26e-f95df760c604",
+          "questionText": "When dry, as it normally is, this lake is the lowest point in Australia, and when filled it's the largest lake in that country.\r\n",
+          "displayAnswer": "Lake Eyre",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": " ^(lake\\s)?eyre$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "1e7c0e79-2df9-4188-bc9a-3e9a8e53f4ca",
+          "questionText": "At 2,014 feet, this Canadian \"Great\" lake is the deepest in North America.",
+          "displayAnswer": "Great Slave Lake",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^great slave(\\slake)?$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dateAttempted": "2026-09-02T11:16:22.4321797-04:00"
+},
+
+{
+  "subjectSet": [
+    {
+      "subject": "Alphabetically First",
+      "mainSubject": "Mixed Bag",
+      "questions": [
+        {
+          "questionID": "4e6aa71d-5dfd-4b5a-b766-35c92b9980f6",
+          "questionText": "Alphabetically, it's the first month of the year.",
+          "displayAnswer": "April",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^apr(il)?$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "384a823b-faa0-422a-9770-3d8d500a1f4f",
+          "questionText": "It is the first of the Great Lakes alphabetically.",
+          "displayAnswer": "Lake Erie",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(lake )?erie$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "14f82f8e-cf8b-4287-9a41-6f99d8444335",
+          "questionText": "This NHL team's nickname is first alphabetically.",
+          "displayAnswer": "(Colorado) Avalanche",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(colorado )?avalanche$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "746d8e7d-f3b4-4101-b99a-5fc1705ac25f",
+          "questionText": "Arranged alphabetically by surname, he is the first in the list of actors to play James Bond in the official movie series.",
+          "displayAnswer": "Pierce Brosnan",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(pierce\\s)?brosnan$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "5c9a4110-2a05-41dc-93c1-aa98b7e40299",
+          "questionText": "Arranged alphabetically, it's the first of the five Old Testament books.",
+          "displayAnswer": "Deuteronomy",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "deuteronomy",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Before They Were Famous",
+      "mainSubject": "Mixed Bag",
+      "questions": [
+        {
+          "questionID": "7729c228-051b-4034-b8c1-47f5a9c3f057",
+          "questionText": "In 1945 she joined the Women's Auxiliary Territorial Service; seven years later she was crowned queen.",
+          "displayAnswer": "Queen Elizabeth II",
+          "hasImage": true,
+          "imagePath": "History/Hrh_Princess_Elizabeth_in_the_Auxiliary_Territorial_Service,_April_1945.jpg",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(queen )?elizabeth( ii)?$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "ce8f095f-8832-4496-8639-08de603a7929",
+          "questionText": "He was arrested and charged with seduction (later dropped) in Lodi, NJ, in 1938, resulting in possibly the most famous mugshot ever taken.",
+          "displayAnswer": "Frank Sinatra",
+          "hasImage": true,
+          "imagePath": "Entertainment/sinatra-mug-shot-1938.jpg",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(frank\\s)?sinatra$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "2e979086-35c0-4e76-902f-308d5054bbf9",
+          "questionText": "This young girl would grow up to write 66 mystery novels and become the best-selling novelist of all time.",
+          "displayAnswer": "Agatha Christie",
+          "hasImage": true,
+          "imagePath": "Literature/Agatha_Christie_as_a_child_No_1.jpg",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(agatha\\s)?christie$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "2ecc19bb-d06e-4b12-b00f-3415eb8e94ff",
+          "questionText": "This future icon of late night television served in the US Navy during World War II.",
+          "displayAnswer": "Johnny Carson",
+          "hasImage": true,
+          "imagePath": "Entertainment/Johnny_Carson_U_S__Navy_portrait.jpg",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(johnny\\s)?carson$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "beb1c88e-1c65-4e65-8d8b-d08ccc9b95b1",
+          "questionText": "This future 32nd president of the U.S. is seen here (red arrow) with his fellow members of the class of 1904.",
+          "displayAnswer": "Franklin D. Roosevelt",
+          "hasImage": true,
+          "imagePath": "History/Franklin_D__Roosevelt_with_Harvard_class_of_1904.jpg",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(franklin (d\\.? )?)?roosevelt$|^fdr$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Identify Country From Its Local Name",
+      "mainSubject": "Geography",
+      "questions": [
+        {
+          "questionID": "ceae2cf1-12de-441b-aa9c-ff8a324c752b",
+          "questionText": "Éire",
+          "displayAnswer": "Ireland",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "ireland",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "f678be74-5061-42ab-8a11-2e14d10af283",
+          "questionText": "Côte d’Ivoire",
+          "displayAnswer": "Ivory Coast",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "ivory coast",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "a5599f4a-1620-4185-9dc2-31a94ababb96",
+          "questionText": "République Centrafricaine",
+          "displayAnswer": "Central African Republic",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "central african republic",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "c8a1677c-24e8-4cc5-9a6c-10da4b04b48b",
+          "questionText": "Suomi",
+          "displayAnswer": "Finland",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "finland",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "c18fb010-a936-4204-bee4-ea13c4e61fcb",
+          "questionText": "Choson",
+          "displayAnswer": "North Korea",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "north korea",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Pen Names",
+      "mainSubject": "Literature",
+      "questions": [
+        {
+          "questionID": "62a6d573-e03d-498b-a607-6f2367a898d2",
+          "questionText": "This author of \"Robinson Crusoe\" may have added \"De\" in front of his last name to make it sound more aristocratic.",
+          "displayAnswer": "Daniel Defoe",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(daniel\\s)?defoe$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "7d09dc7c-c3f2-4a91-90df-0346827abfcc",
+          "questionText": "His first two books, \"Sketches by Boz\" (1836) and \"The Pickwick Papers\" (1837), were published using the pen name Boz.\r\n",
+          "displayAnswer": "Charles Dickens",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(charles\\s)?dickens$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "393f9450-7166-43e7-8f38-0540b924a884",
+          "questionText": "David John Moore Cornwell drew from his  experience at MI6 to produce spy novels such as \"The Spy Who Came in from the Cold\" under this nom de plume.\r\n\r\n",
+          "displayAnswer": "John le Carré",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(john\\s)?le carre$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "a6a08850-62a9-4c43-baac-70c3f48c0cb5",
+          "questionText": "While in prison, William Sydney Porter began using this pen name; his most prolific writing period started in 1902, a year after being released.\r\n",
+          "displayAnswer": "O. Henry",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^o.?\\s+henry$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "406dcc87-ac85-489e-bfdc-a09802cd3557",
+          "questionText": "This pen name of Hector Hugh Munro sounds like a type of wine.\r\n",
+          "displayAnswer": "Saki",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "saki",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Found on this Continent",
+      "mainSubject": "Geography",
+      "questions": [
+        {
+          "questionID": "3d76c1df-1eb0-4091-be5b-68fac7f55a06",
+          "questionText": "Scandinavia",
+          "displayAnswer": "Europe",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "europe",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "6b1ac2c9-20f4-45d1-87c2-d3c5506ab70b",
+          "questionText": "Patagonia",
+          "displayAnswer": "South America",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "south america",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "bb1b5406-ce94-4d54-8eee-5efa9b221672",
+          "questionText": "Black Forest",
+          "displayAnswer": "Europe",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "europe",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "4a86e6c0-1ad3-4671-496d-08de3c1a5e65",
+          "questionText": "Daintree Rainforest",
+          "displayAnswer": "Australia (or Oceania)",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "(^australia$|^oceania$)",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "2845c561-8bad-4ed8-aa48-e1f6d120a093",
+          "questionText": "Pampas",
+          "displayAnswer": "South America",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "south america",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Radioactivity",
+      "mainSubject": "Science & Math",
+      "questions": [
+        {
+          "questionID": "779bacfd-d55a-43f3-8c4d-db88a0db9818",
+          "questionText": "This term refers to the amount of time it takes for half of the atoms in a collection to undergo radioactive decay.",
+          "displayAnswer": "Half-life",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^half[-\\s]?life$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "16a1c143-61dc-42c4-949b-972affc9b3c9",
+          "questionText": "This unit of radioactivity, abbreviated as Bq, is defined as one transformation or decay per second.",
+          "displayAnswer": "Becquerel",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "becquerel",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "15201f7e-f13e-4673-aa7e-96d796a6a9a6",
+          "questionText": "This type of decay takes the form of high energy electromagnetic radiation and can only be blocked by a thick dense mass such as a layer of lead - choose either alpha, beta or gamma ray.",
+          "displayAnswer": "Gamma ray",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^gamma( rays?)$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "1747dddd-7b82-40dd-82f9-d6c903c40dd7",
+          "questionText": "This basic unit abbreviated Sv measures the amount of biological damage from ionizing radiation.",
+          "displayAnswer": "Sievert",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "sievert",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "64c35054-a826-48f3-b1b2-a10b66801d54",
+          "questionText": "This physicist discovered that a sample of atoms decay radioactively at a constant rate, for which he was rewarded with a Nobel Prize in 1908.",
+          "displayAnswer": "Ernest Rutherford",
+          "hasImage": true,
+          "imagePath": "Science/Ernest_Rutherford_LOC.jpg",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(ernest\\s)?rutherford$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dateAttempted": "2026-09-02T11:18:47.5851947-04:00"
+},
+{
+  "subjectSet": [
+    {
+      "subject": "Opera",
+      "mainSubject": "Fine Arts",
+      "questions": [
+        {
+          "questionID": "772823c8-0b24-48b8-9fbe-32ac62f3e2ab",
+          "questionText": "The overture of this opera written in 1829 became the theme music of the Lone Ranger radio and television shows over 100 years later.",
+          "displayAnswer": "William Tell",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^william tell(?: overture)?$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "3f6a8622-116a-46c5-98aa-08de3cbc0ce5",
+          "questionText": "Born Maria Anna Cecilia Sofia Kalogeropoulos in 1923, she became one of the most acclaimed opera singers of the 20th century before retiring from the stage in 1965.",
+          "displayAnswer": "Maria Callas",
+          "hasImage": true,
+          "imagePath": "Art/960px-Maria_Callas_1958.jpg",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(maria)?\\s?callas$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "dae3718f-5444-45a6-4972-08de3c1a5e65",
+          "questionText": "This German composer's most ambitious work, the Ring Cycle, is performed over four nights.",
+          "displayAnswer": "Richard Wagner",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(richard)?\\s?wagner$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "79c27455-5bb0-472a-4970-08de3c1a5e65",
+          "questionText": "This two-word Italian phrase meaning \"beautiful singing\" was a prominent vocal tradition of the 19th-century Italian opera.",
+          "displayAnswer": "Bel canto",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "bel canto",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "740a9648-3db5-4660-8ee0-394538acd5ca",
+          "questionText": "Male soprano singers of the 16th to 18th centuries, typically with great range and power and surgically altered at puberty, were known as these.",
+          "displayAnswer": "Castrati",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "castrati",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Alma Maters of the Famous",
+      "mainSubject": "Mixed Bag",
+      "questions": [
+        {
+          "questionID": "baa90156-5ee9-43c2-a084-a267e66f6503",
+          "questionText": "Donald Trump",
+          "displayAnswer": "University of Pennsylvania",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(u(niversity)? of )?penn(sylvania)?$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "7fb7e3f2-8c3a-4326-ba25-b7ff4a8ea02e",
+          "questionText": "Conan O'Brien",
+          "displayAnswer": "Harvard",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "harvard",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "4ae49a89-f615-46bd-8c4d-f474b2121ea1",
+          "questionText": "Bill Nye",
+          "displayAnswer": "Cornell",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "cornell",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "c78ded09-c9e8-4892-98ac-555b565347de",
+          "questionText": "John Glenn",
+          "displayAnswer": "Muskingum (OH)",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^\\bmuskingum\\b",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "364a1a9c-a625-4f51-9846-46361d0fe7e5",
+          "questionText": "Chris Berman",
+          "displayAnswer": "Brown",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^\\bbrown\\b",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Pen Names",
+      "mainSubject": "Literature",
+      "questions": [
+        {
+          "questionID": "b35fcfcf-6784-4337-9207-58af5817e278",
+          "questionText": "This pen name of Eric Arthur Blair became the basis for a description of totalitarian rule, due to the author's 1949 dystopian novel portraying a bleak future in the decades ahead.\r\n",
+          "displayAnswer": "George Orwell",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(george\\s)?orwell$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "a6c9f1ea-1bad-482c-bceb-b9742410e1f7",
+          "questionText": "Theodor Geisel, shown here, is better known by this pseudonym.\r\n",
+          "displayAnswer": "Dr. Seuss",
+          "hasImage": true,
+          "imagePath": "Literature/Ted_Geisel_NYWTS_2_crop.jpg",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^((dr.?|doctor)\\s+)?seuss$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "7d09dc7c-c3f2-4a91-90df-0346827abfcc",
+          "questionText": "His first two books, \"Sketches by Boz\" (1836) and \"The Pickwick Papers\" (1837), were published using the pen name Boz.\r\n",
+          "displayAnswer": "Charles Dickens",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(charles\\s)?dickens$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "c5aac8c7-3229-4620-a98b-b295fd551d55",
+          "questionText": "Born Alisa Zinov'yevna Rosenbaum in Russia in 1905, she achieved fame with her novel \"Fountainhead.\"\r\n ",
+          "displayAnswer": "Ayn Rand",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(ayn\\s)?rand$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "393f9450-7166-43e7-8f38-0540b924a884",
+          "questionText": "David John Moore Cornwell drew from his  experience at MI6 to produce spy novels such as \"The Spy Who Came in from the Cold\" under this nom de plume.\r\n\r\n",
+          "displayAnswer": "John le Carré",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(john\\s)?le carre$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Radioactivity",
+      "mainSubject": "Science & Math",
+      "questions": [
+        {
+          "questionID": "7cbe2813-66f1-4d9c-2f8c-08de53a8abd4",
+          "questionText": "This physicist named the phenomenon of radioactivity.",
+          "displayAnswer": "Marie Curie",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(madame?|marie) curie$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "a9f278b1-30ce-410f-99a9-573fc63e7d21",
+          "questionText": "This is the process in which radioactive decay results in the creation of an atom of a different element.",
+          "displayAnswer": "Nuclear transmutation",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(nuclear )?transmutation$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "18d3d491-79a7-4612-8e87-4d785f63ce2e",
+          "questionText": "In this type of decay, a high speed electron or positron plus a neutrino, are emitted by the nucleus of an atom.",
+          "displayAnswer": "Beta decay",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^beta( decay?)$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "64c35054-a826-48f3-b1b2-a10b66801d54",
+          "questionText": "This physicist discovered that a sample of atoms decay radioactively at a constant rate, for which he was rewarded with a Nobel Prize in 1908.",
+          "displayAnswer": "Ernest Rutherford",
+          "hasImage": true,
+          "imagePath": "Science/Ernest_Rutherford_LOC.jpg",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(ernest\\s)?rutherford$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "ee068f85-a588-4acc-b85d-f8be3f3f66b2",
+          "questionText": "This basic unit is defined as the absorption of one joule of radiation energy per kilogram.",
+          "displayAnswer": "Gray",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "gray",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Human Anatomy",
+      "mainSubject": "Science & Math",
+      "questions": [
+        {
+          "questionID": "e1286eeb-e519-4793-b596-38c0d7328085",
+          "questionText": "The nephron is the basic unit of structure in this organ.",
+          "displayAnswer": "Kidney",
+          "hasImage": false,
+          "imagePath": " ",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^kidneys?$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            },
+            {
+              "answerText": "^kidneys?$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "6e868f80-b75a-42ed-9782-e8c58466455b",
+          "questionText": "This bowtie shaped gland, located at the base of the neck, is responsible for regulating metabolism.",
+          "displayAnswer": "Thyroid gland",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^thyroid\\s*(gland)?$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "e7216870-70f3-4b24-b8c5-30e3a968e82d",
+          "questionText": "Taking up roughly two-thirds of the human brain's mass, this is the largest part of that organ.",
+          "displayAnswer": "Cerebrum",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "cerebrum",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "9231150c-28f8-4b10-86bd-37bf8f6c471b",
+          "questionText": "This hormone abbreviated ADH reduces the amount of water passed as urine and thus conserves the volume of the body's fluids.",
+          "displayAnswer": "Anti-diuretic hormone",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^anti[-]*\\s*diuretic hormone$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "594b5ec8-9948-4312-9ece-85345b243189",
+          "questionText": "This part of the brain shown here links the nervous and endocrine systems by monitoring hormone levels and stimulating the pituitary gland if levels fall too low.",
+          "displayAnswer": "Hypothalamus",
+          "hasImage": true,
+          "imagePath": "Science/Hypothalamus.png",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "hypothalamus",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Fictional Planets",
+      "mainSubject": "Movies & TV",
+      "questions": [
+        {
+          "questionID": "eacafbfd-166b-4d3b-b4de-ea430ae032fe",
+          "questionText": "Melmac is home to this Alien Life Form.",
+          "displayAnswer": "ALF",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "alf",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "dc03b58d-861f-4321-53d6-08de436280a4",
+          "questionText": "Arda is the entire created world in his series of books, including Lord of the Rings.",
+          "displayAnswer": "J.R.R. Tolkien",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(j.?\\s?r.?\\s?r.?)?\\s?tolkien$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "62b8512f-3012-46ef-53d8-08de436280a4",
+          "questionText": "It is both the name of C.J. Cherryh's Hugo-winning 1988 novel and a capital world in the Alliance-Union universe.",
+          "displayAnswer": "Cyteen",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "cyteen",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "7b32b2af-c18b-4ec0-887a-eab071b2c610",
+          "questionText": "The desert planet Arrakis was the setting for this author's novel \"Dune\".",
+          "displayAnswer": "Frank Herbert",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(frank\\s)?herbert$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "33205a1a-7ba4-4baa-53d9-08de436280a4",
+          "questionText": "Arnold Rimmer spends 600 years alone on Rimmerworld in this British sci-fi TV show, creating clones of himself in a failed attempt to create a girlfriend.",
+          "displayAnswer": "Red Dwarf",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "red dwarf",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dateAttempted": "2026-09-02T11:20:21.357176-04:00"
+},
+{
+  "subjectSet": [
+    {
+      "subject": "Add a Letter",
+      "mainSubject": "Word Play",
+      "questions": [
+        {
+          "questionID": "f2553fdf-f21e-406b-b593-2c13c1dbe373",
+          "questionText": "Add a letter to “money” to get a type of primate.",
+          "displayAnswer": "Monkey",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "monkey",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "1682a145-928d-4118-9d13-54775bb1999c",
+          "questionText": "Add a letter to “potion” to get a word meaning an amount of food served to one person.",
+          "displayAnswer": "Portion",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "portion",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "bec9caf0-cdfd-4059-806e-103f1e3f8a3f",
+          "questionText": "Add a letter to “moral” to get a word meaning the emotional condition in the face of opposition.",
+          "displayAnswer": "Morale",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "morale",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "851fff61-732c-4358-a999-7a5046f511f7",
+          "questionText": "Add a letter to “boat” to get this word that means to expand or distend as with water or air.",
+          "displayAnswer": "Bloat",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "bloat",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "cbed3c31-581a-4e9e-9a54-93b3d86e38bf",
+          "questionText": "Add a letter to “tile” to get the word for this symbol ~ placed over an n in some Spanish words.",
+          "displayAnswer": "Tilde",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "tilde",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Words Beginning with \"tan\"",
+      "mainSubject": "Word Play",
+      "questions": [
+        {
+          "questionID": "427b8494-3c3f-4a73-9788-4a54eafca313",
+          "questionText": "It's something that can be touched or known to be real.",
+          "displayAnswer": "Tangible",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "tangible",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "457e1285-04aa-4174-8df7-e987468fdc06",
+          "questionText": "It's a confused mass of something twisted together, such as wires or uncombed hair.",
+          "displayAnswer": "Tangle",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "tangle",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "e2c4a856-1a40-47e8-93fb-62def9aa9261",
+          "questionText": "More than a simple cup, this drinkware shown here is typically large and made of silver, pewter or glass.",
+          "displayAnswer": "Tankard",
+          "hasImage": true,
+          "imagePath": "Miscellaneous/Tankard_(PSF).png",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "tankard",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "66aa654b-2860-49ec-9859-8f9b6bb6f64b",
+          "questionText": "It's a place where animal skins are treated in order to produce leather.",
+          "displayAnswer": "Tannery",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "tannery",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "82762480-9a88-4a28-bbdb-1f2df5a2b9db",
+          "questionText": "This substance found in plants, bark or fruit skins, makes a wine taste dry.",
+          "displayAnswer": "Tannin",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "tannin",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Classic Rock Albums - Name the Artist",
+      "mainSubject": "Popular Music",
+      "questions": [
+        {
+          "questionID": "92f8d040-2f20-41f7-c7d1-08de47e90339",
+          "questionText": "London Calling (1979)",
+          "displayAnswer": "The Clash",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(the )?clash$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "4c3dc83e-6c30-4af1-8852-f6c1fbe31a00",
+          "questionText": "Blonde on Blonde (1966)",
+          "displayAnswer": "Bob Dylan",
+          "hasImage": false,
+          "imagePath": null,
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(bob\\s)?dylan$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "970f7cae-a483-4a7f-c7c7-08de47e90339",
+          "questionText": "Déjà Vu (1970)",
+          "displayAnswer": "Crosby, Stills, Nash & Young (CSNY)",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^crosby,? stills,? nash,? ((&)|(and)) young$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            },
+            {
+              "answerText": "^csn&?y$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "a14dbedf-2f97-4f45-c7d3-08de47e90339",
+          "questionText": "Moontan (1973)",
+          "displayAnswer": "Golden Earring",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "golden earring",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "1de4426c-a93e-48e2-c7cf-08de47e90339",
+          "questionText": "Parallel Lines (1978)",
+          "displayAnswer": "Blondie",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "blondie",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "This Country Owns It",
+      "mainSubject": "Geography",
+      "questions": [
+        {
+          "questionID": "2581fed2-fe86-4210-46d4-08defbbde174",
+          "questionText": "St. Thomas, Virgin Islands",
+          "displayAnswer": "United States",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "(^united states( of america)?$)|(^usa?$)",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "004a0e1f-f947-467b-824e-e15fc0aa4540",
+          "questionText": "Greenland",
+          "displayAnswer": "Denmark",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "denmark",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "8387c4bb-18f6-4606-915b-146127c79bcc",
+          "questionText": "French Guiana on this continent is an overseas department of France.",
+          "displayAnswer": "South America",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "south america",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "4fb3a479-11df-4ac4-843a-45f0b87f2915",
+          "questionText": "Galapagos Islands",
+          "displayAnswer": "Ecuador",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "ecuador",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "91973132-0379-463c-80ca-4ca70e824f1d",
+          "questionText": "New Caledonia",
+          "displayAnswer": "France",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "france",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Radioactivity",
+      "mainSubject": "Science & Math",
+      "questions": [
+        {
+          "questionID": "51a99b43-3ce2-4917-87e6-4abe77437e74",
+          "questionText": "Alpha decay occurs when a nucleus emits an alpha particle consisting of two protons and two neutrons, equivalent to the nucleus of this atom.",
+          "displayAnswer": "Helium",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "helium",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "a9f278b1-30ce-410f-99a9-573fc63e7d21",
+          "questionText": "This is the process in which radioactive decay results in the creation of an atom of a different element.",
+          "displayAnswer": "Nuclear transmutation",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(nuclear )?transmutation$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "16a1c143-61dc-42c4-949b-972affc9b3c9",
+          "questionText": "This unit of radioactivity, abbreviated as Bq, is defined as one transformation or decay per second.",
+          "displayAnswer": "Becquerel",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "becquerel",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "6bdcc2ee-9c17-4c53-afb6-a7f00558f9c8",
+          "questionText": "This term refers to a \"species of nucleus\", one having a specific number of protons, neutrons and nuclear energy state.",
+          "displayAnswer": "Nuclide",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "nuclide",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "64c35054-a826-48f3-b1b2-a10b66801d54",
+          "questionText": "This physicist discovered that a sample of atoms decay radioactively at a constant rate, for which he was rewarded with a Nobel Prize in 1908.",
+          "displayAnswer": "Ernest Rutherford",
+          "hasImage": true,
+          "imagePath": "Science/Ernest_Rutherford_LOC.jpg",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(ernest\\s)?rutherford$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Country by Location - Europe",
+      "mainSubject": "Geography",
+      "questions": [
+        {
+          "questionID": "7af94999-f7cc-4f07-8e62-80cd2632a42a",
+          "questionText": "Name the highlighted country.",
+          "displayAnswer": "Germany",
+          "hasImage": true,
+          "imagePath": "Geography/map_location_Germany.png",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "germany",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "d5402606-1908-43e6-b7f2-06aff06d73be",
+          "questionText": "Name the highlighted country.",
+          "displayAnswer": "France",
+          "hasImage": true,
+          "imagePath": "Geography/map_location_France.png",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "france",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "b25b7dc7-53f0-4f57-bc30-d95fea58965c",
+          "questionText": "Name the highlighted country.",
+          "displayAnswer": "Sweden",
+          "hasImage": true,
+          "imagePath": "Geography/map_location_Sweden.gif",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "sweden",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "4fde9cbe-506d-4023-b454-1fc0d21bfbad",
+          "questionText": "Name the highlighted country.",
+          "displayAnswer": "Austria",
+          "hasImage": true,
+          "imagePath": "Geography/map_location_Austria.png",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "austria",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "a5a20263-0b0b-41c3-88b2-909cb1c32730",
+          "questionText": "Name the highlighted country.",
+          "displayAnswer": "Netherlands",
+          "hasImage": true,
+          "imagePath": "Geography/map_location_Netherlands.png",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(the )?netherlands$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dateAttempted": "2026-09-02T11:21:18.5527597-04:00"
+},
+{
+  "subjectSet": [
+    {
+      "subject": "Words Beginning with \"bar\"",
+      "mainSubject": "Word Play",
+      "questions": [
+        {
+          "questionID": "227ef104-2997-4751-9143-c6840511aba5",
+          "questionText": "This means to go to a succession of bars in one evening, usually staying briefly at each.",
+          "displayAnswer": "Barhopping",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^bar[\\s-]?hopping",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "d704a5aa-f998-48c5-8afc-b347aeb34062",
+          "questionText": "An immediate payment is known as \"cash on the ________\".",
+          "displayAnswer": "Barrelhead",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "barrelhead",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "8584348b-cf62-44b8-93cf-b7b51e4287dc",
+          "questionText": "It's an instrument that measures atmospheric pressure.",
+          "displayAnswer": "Barometer",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "barometer",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "4c8a92d9-9442-43a2-9b15-ff67d02846c7",
+          "questionText": "It's an improvised barrier intended to obstruct passage.",
+          "displayAnswer": "Barricade",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "barricade",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "5486d8f2-11f4-47cf-a473-dde43eb13b54",
+          "questionText": "This group of drugs act as central nervous system depressants.",
+          "displayAnswer": "Barbiturate",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "barbiturate",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Name the Mystery Writer Given Detective Name",
+      "mainSubject": "Literature",
+      "questions": [
+        {
+          "questionID": "ce44fc1e-5777-4133-051b-08de221e6d5d",
+          "questionText": "Sherlock Holmes",
+          "displayAnswer": "Sir Arthur Conan Doyle",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(?:sir\\s+)?(?:arthur\\s+)?(?:conan\\s+)?doyle$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "b1485698-5d7a-479b-0516-08de221e6d5d",
+          "questionText": "Kinsey Milhone",
+          "displayAnswer": "Sue Grafton",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(sue\\s)?grafton$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "e3fc7176-4d97-443d-2608-08de22e17653",
+          "questionText": " Inspector Adam Dalgleish",
+          "displayAnswer": "P.D. James",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(p\\.?\\s?d\\.?\\s)?james$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "23b76bfc-9dfc-49ce-260c-08de22e17653",
+          "questionText": "V.I. Warshawski",
+          "displayAnswer": "Sara Paretsky",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(sarah?\\s)?paretsk[yi]$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "f3b10916-ea00-4868-2606-08de22e17653",
+          "questionText": "Nero Wolfe",
+          "displayAnswer": "Rex Stout",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(rex\\s)?stout$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Fictional Planets",
+      "mainSubject": "Movies & TV",
+      "questions": [
+        {
+          "questionID": "e1d808a4-614f-46df-b4de-d3512b931aae",
+          "questionText": "Star Trek's Mister Spock calls this planet home.",
+          "displayAnswer": "Vulcan",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "vulcan",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "ea1c4069-6c52-4960-53da-08de436280a4",
+          "questionText": "Romulus is the planet of the Romulans, an enemy of the Federation in this hugely popular franchise universe.",
+          "displayAnswer": "Star Trek",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "star trek",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "bdd9bc42-d7d3-438b-a665-d658f637a687",
+          "questionText": "It's the home planet of the Coneheads, described to their Earthling neighbors as \"a small town in France.\"",
+          "displayAnswer": "Remulak",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "remulak",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "7b32b2af-c18b-4ec0-887a-eab071b2c610",
+          "questionText": "The desert planet Arrakis was the setting for this author's novel \"Dune\".",
+          "displayAnswer": "Frank Herbert",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(frank\\s)?herbert$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "e20f2f5b-1a8b-4387-53d5-08de436280a4",
+          "questionText": "This is the home planet of the Transformers.",
+          "displayAnswer": "Cybertron",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "cybertron",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "TIME's 25 Most Powerful Women of the Past Century",
+      "mainSubject": "Mixed Bag",
+      "questions": [
+        {
+          "questionID": "0d00a3c9-bc89-46a3-93dc-f1e358df2126",
+          "questionText": "She’s the best selling female recording artist of all time with over 300 million records sold and twelve #1 singles on the Billboard charts, “Like a Virgin” being the first in 1984.",
+          "displayAnswer": "Madonna",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "madonna",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "073a4702-9b12-499b-9669-46d64195f08f",
+          "questionText": "She served on the US Supreme Court from 1981 to 2006 and was regarded as a moderate conservative ideologically.",
+          "displayAnswer": "Sandra Day O’Connor",
+          "hasImage": true,
+          "imagePath": "History/Sandra_Day_O'Connor.jpg",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(sandra day )?o'?connor$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "9dbcf0d4-f2ea-49bd-a8bb-759c0c8114b9",
+          "questionText": "This civil rights activist is pictured here in December 1955, after being arrested for refusing to give up her seat to a white man on a Montgomery, Alabama, bus. ",
+          "displayAnswer": "Rosa Parks",
+          "hasImage": true,
+          "imagePath": "History/Rosa-Parks-arrested.jpg",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(rosa\\s)?parks$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "3e2e49cf-85f8-4c69-b7ee-695fde175335",
+          "questionText": "Born in Poland in 1867, she was the first woman to win the Nobel Peace Prize, but died in 1934 from the effects of exposure to radiation.",
+          "displayAnswer": "Marie Curie",
+          "hasImage": true,
+          "imagePath": "Science/Marie_Curie_c1920.jpg",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(marie\\s)?curie$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "1f368e05-fc89-4d49-a677-913b7d7f7846",
+          "questionText": "She served as Prime Minister of Israel from 1969 to 1974.",
+          "displayAnswer": "Golda Meir",
+          "hasImage": true,
+          "imagePath": "History/Golda_Meir.jpg",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(golda\\s)?meir$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Teen Idols",
+      "mainSubject": "Mixed Bag",
+      "questions": [
+        {
+          "questionID": "28500637-143d-4492-3f06-08de4d334d11",
+          "questionText": "Elizabeth Taylor called him the \"King of Pop\" in 1989; earlier in the decade he released a thriller of an album and made the most famous moonwalk since Neil Armstrong.",
+          "displayAnswer": "Michael Jackson",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(michael )?jackson$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "6f12152c-0921-435b-3f03-08de4d334d11",
+          "questionText": "\"Belieb\" it when I say that he is one of the best-selling music artists of all time with 150 million units sold worldwide, beginning with \"One Time\" in 2009.",
+          "displayAnswer": "Justin Bieber",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(justin )?bieber$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "103c6b7e-c800-4dcd-3f02-08de4d334d11",
+          "questionText": "He achieved iconic status and spawned the fan frenzy known as \"Leo-Mania\" after starring in a certain blockbuster movie in 1997.",
+          "displayAnswer": "Leonardo DiCaprio",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(leonardo )?dicaprio$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "ebaf745d-0aee-48c0-3f01-08de4d334d11",
+          "questionText": " This actor and singer was the one that they want(ed), especially after starring roles in \"Grease\" and \"Saturday Night Fever.\"",
+          "displayAnswer": "John Travolta",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(john )?travolta$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "1309d00c-fdc3-47ed-3f00-08de4d334d11",
+          "questionText": "He sang in a band with his brothers, then had hits as a solo artist including the chart-topper \"Go Away Little Girl\" in 1971; later in the decade he starred with his sister Marie in a popular variety show.",
+          "displayAnswer": "Donny Osmond",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "donny osmond",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Found on this Continent",
+      "mainSubject": "Geography",
+      "questions": [
+        {
+          "questionID": "549b4187-4f93-45e1-bc8c-334a49b243a7",
+          "questionText": "Great Plains",
+          "displayAnswer": "North America",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "north america",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "3d76c1df-1eb0-4091-be5b-68fac7f55a06",
+          "questionText": "Scandinavia",
+          "displayAnswer": "Europe",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "europe",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "c8c00fb7-5d52-4375-4968-08de3c1a5e65",
+          "questionText": "Most of the Great Rift Valley",
+          "displayAnswer": "Africa",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "africa",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "91dbd78a-a5c9-4ffc-ba5c-88c6e57a24f9",
+          "questionText": "Ross Ice Shelf",
+          "displayAnswer": "Antarctica",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "antarctica",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "2845c561-8bad-4ed8-aa48-e1f6d120a093",
+          "questionText": "Pampas",
+          "displayAnswer": "South America",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "south america",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dateAttempted": "2026-09-02T11:23:26.880632-04:00"
+},
+{
+  "subjectSet": [
+    {
+      "subject": "Plead the Fifth",
+      "mainSubject": "Mixed Bag",
+      "questions": [
+        {
+          "questionID": "c7827882-fc1d-4d53-bd6b-3cfa69699ca2",
+          "questionText": "This king clocks in as the fifth longest reigning monarch in Britain, serving from 1216-1272, following the death of his father, King John.",
+          "displayAnswer": "Henry III",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "henry iii",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "ccef4dc5-3bb9-449b-c7ab-08de47e90339",
+          "questionText": "On January 9, 1788, it became the fifth state admitted to the Union, and the first from New England.",
+          "displayAnswer": "Connecticut",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^connecticut|ct$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "bdebcf62-cf82-41ec-8dc5-910144977353",
+          "questionText": "At 360,000 square miles, this desert located in Botswana, Namibia and South Africa ranks fifth on the list of largest deserts.",
+          "displayAnswer": "Kalahari",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^kalahari( desert)?$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "d9a00c7a-1d54-4af7-859a-06be97046af6",
+          "questionText": "The unusual name of this Cincinnati-based bank is derived from the 1908 merger of the Fifth National Bank and another numeric national bank.",
+          "displayAnswer": "Fifth Third Bank",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(fifth|5th) (third|3rd)( bank)?$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "f52e8e93-fb39-4b28-c7a9-08de47e90339",
+          "questionText": "The fifth largest island in the world by area is Baffin Island, located in this territory of Canada.",
+          "displayAnswer": "Nunavut",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "nunavut",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "I Was Born First",
+      "mainSubject": "Mixed Bag",
+      "questions": [
+        {
+          "questionID": "31d550fe-a0ac-4712-8c98-b6564da15ade",
+          "questionText": "Brothers: John F. Kennedy; Joseph Kennedy, Jr.; Robert F. Kennedy.",
+          "displayAnswer": "Joseph Kennedy, Jr.",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^joseph( kennedy,?( jr.?)?)?$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            },
+            {
+              "answerText": "^(joe)|(joseph)(\\sjr.?)?$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "788c95a0-0b6a-4206-9125-7da1bc79360b",
+          "questionText": "Henri Matisse, Édouard Manet, Claude Monet.",
+          "displayAnswer": "Édouard Manet",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^([ée]douard\\s)?manet$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "6c40da7a-c787-4855-9603-e0981063f911",
+          "questionText": "Sean Connery, George Lazenby, Roger Moore.",
+          "displayAnswer": "Roger Moore",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(roger\\s)?moore$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "bd25ad2a-f178-4217-b310-fb54f28d8e77",
+          "questionText": "Ludwig van Beethoven, Franz Joseph Haydn, Wolfgang Amadeus Mozart.",
+          "displayAnswer": "Haydn",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(?!.*(beethoven|mozart)).*haydn.*$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "4df5b951-0618-4693-8d23-2676f3b6e799",
+          "questionText": "Aeschylus, Euripides, Sophocles.",
+          "displayAnswer": "Aeschylus",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "aeschylus",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Presidential Middle Names",
+      "mainSubject": "History",
+      "questions": [
+        {
+          "questionID": "b300720f-b705-4b2f-8525-72dcd8ccb0ce",
+          "questionText": "Barack Obama",
+          "displayAnswer": "Hussein",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "hussein",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "8d536623-cb6a-459a-9f37-8f2ee1bcc47c",
+          "questionText": "George H. W. Bush",
+          "displayAnswer": "Herbert Walker",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "herbert walker",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "9ab1aead-a78b-4cd5-bb9c-8ee1e0ef40f2",
+          "questionText": "Franklin Roosevelt",
+          "displayAnswer": "Delano",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "delano",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "d868aad5-2e90-49f3-8575-d593ef6e1d68",
+          "questionText": "James Garfield",
+          "displayAnswer": "Abram",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "abram",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "7fabaf39-9fb5-477d-b8d9-17167753ae47",
+          "questionText": "Herbert Hoover",
+          "displayAnswer": "Clark",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "clark",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "College Team Nicknames",
+      "mainSubject": "Sports & Games",
+      "questions": [
+        {
+          "questionID": "6421dff3-5682-48e1-b924-f66b210b2011",
+          "questionText": "Georgetown University",
+          "displayAnswer": "Hoyas",
+          "hasImage": false,
+          "imagePath": null,
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "hoyas",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "aad4d840-90e6-4d51-2f93-08de53a8abd4",
+          "questionText": "Notre Dame",
+          "displayAnswer": "Fighting Irish",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(fighting )?irish$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "8b9b57fe-7c61-41f6-b9f8-62543e65f0d7",
+          "questionText": "Virginia Tech",
+          "displayAnswer": "Hokies",
+          "hasImage": false,
+          "imagePath": null,
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "hokies",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "e66bce98-ffaa-4477-2f95-08de53a8abd4",
+          "questionText": "University of Maryland",
+          "displayAnswer": "Terrapins",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "terrapins",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "115ab2cd-a80a-40ef-b240-71a3af51874f",
+          "questionText": "East Carolina University",
+          "displayAnswer": "Pirates",
+          "hasImage": false,
+          "imagePath": null,
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "pirates",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Classical Music",
+      "mainSubject": "Fine Arts",
+      "questions": [
+        {
+          "questionID": "3d37701a-2a02-4091-9565-71cf0d36ef0b",
+          "questionText": "Ludwig van Beethoven, Franz Schubert and Johannes Brahms are buried in the Zentralfriedhof, the main cemetery in this Austrian city. ",
+          "displayAnswer": "Vienna",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 1,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^vienna",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "ec548306-998e-4f3b-af6f-610e4d266db5",
+          "questionText": "He was called the \"Father of the Symphony,\" having composed 106 of them including No. 94, The Surprise.",
+          "displayAnswer": "Franz Joseph Haydn",
+          "hasImage": true,
+          "imagePath": "TBD",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "franz joseph haydn",
+              "isRegex": false,
+              "correctAnswerId": 0
+            },
+            {
+              "answerText": "^(joseph)?\\s?haydn$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "29e29ce6-e191-4ce1-9f3c-4d3054e4815d",
+          "questionText": "The husband and wife with this surname pictured here played an important role in the 19th century music world, with Robert as a composer and Clara primarily as a pianist but also composer.",
+          "displayAnswer": "Schumann",
+          "hasImage": true,
+          "imagePath": "Art/Robert_and_Clara_Schumann_portrait.png",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "schumann",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "27b24b10-f3b1-41ba-9998-b47a12be30e1",
+          "questionText": "Penniless for most of his adult life, this Austrian gave his only public concert in March 1828, but died later that year at age 31.",
+          "displayAnswer": "Franz Schubert",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 4,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "^(franz)?\\s?schubert$",
+              "isRegex": true,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "233fbc84-9ae3-4616-8ecc-7477dc5c7978",
+          "questionText": "This is a piece of orchestral music that attempts to evoke the content of a poem, story or even painting without using lyrics; Liszt wrote thirteen of them.",
+          "displayAnswer": "Tone poem (symphonic poem)",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "tone poem",
+              "isRegex": false,
+              "correctAnswerId": 0
+            },
+            {
+              "answerText": "symphonic poem",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Words Beginning with \"syn\"",
+      "mainSubject": "Word Play",
+      "questions": [
+        {
+          "questionID": "cd2c35bf-263c-414e-a5b7-6e7f6a08b32a",
+          "questionText": "This is a brief summary or outline of something.",
+          "displayAnswer": "Synopsis",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "synopsis",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "9d3a6e35-255d-49ed-8ac9-4b89813042ff",
+          "questionText": "It means recurring at the same points in time.",
+          "displayAnswer": "Synchronous",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 2,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "synchronous",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "0d2bf440-010a-488a-9c88-23b206fd24d5",
+          "questionText": "This basic element of jazz involves stressing a normally unaccented beat.",
+          "displayAnswer": "Syncopation",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "syncopation",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "d59e2a3e-cc37-474b-9515-0df85bb0b6c3",
+          "questionText": "The interaction of two or more people or groups producing more than the sum of individual elements is known as this.",
+          "displayAnswer": "Synergy",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 3,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "synergy",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        },
+        {
+          "questionID": "9532cc4b-2102-4694-9ea0-7c21d5467105",
+          "questionText": "This is an amalgamation of different religions, often occurring when foreign beliefs are introduced to another culture.",
+          "displayAnswer": "Syncretism",
+          "hasImage": false,
+          "imagePath": "",
+          "difficultyLevel": 5,
+          "isActive": false,
+          "reference": null,
+          "titleID": null,
+          "titleDescription": null,
+          "mainSubjectID": null,
+          "correctAnswers": [
+            {
+              "answerText": "syncretism",
+              "isRegex": false,
+              "correctAnswerId": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dateAttempted": "2026-09-02T11:29:10.9020656-04:00"
+}
+
+    ]
+}
